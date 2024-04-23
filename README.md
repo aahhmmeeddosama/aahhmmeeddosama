@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aahhmmeeddosama" alt="aahhmmeeddosama" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif">
+
 
 <p align="left"> <a href="https://twitter.com/aahhmmeeddosama" target="blank"><img src="https://img.shields.io/twitter/follow/aahhmmeeddosama?logo=twitter&style=for-the-badge" alt="aahhmmeeddosama" /></a> </p>
 
