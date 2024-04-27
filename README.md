@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Osama</h1>
-<h3 align="center">Mobile App Developer | Flutter | Freelancer</h3>
+<h3 align="center">📱 Mobile App Developer | Flutter | Freelancer 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aahhmmeeddosama&label=Profile%20views&color=0e75b6&style=flat" alt="aahhmmeeddosama" /> </p>
 
