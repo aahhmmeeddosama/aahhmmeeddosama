@@ -23,7 +23,7 @@
 <a href="https://stackoverflow.com/users/11294716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11294716" height="30" width="40" /></a>
 <a href="https://fb.com/aahhmmeeddosama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aahhmmeeddosama" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmedoossaammaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedoossaammaa" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01426af561845f11d0"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/upwork.svg" alt="Your Upwork Profile" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
