@@ -33,6 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aahhmmeeddosama&show_icons=true&locale=en&theme=dark" alt="aahhmmeeddosama" /></p>
 
-<p style="text-align: center;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aahhmmeeddosama&theme=dark" alt="aahhmmeeddosama" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aahhmmeeddosama&theme=transparent&border_radius=50&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 🐥Note: The "Top languages" metric only reflects the languages present in my public code repositories and should not be considered as a reflection of my overall experience or skill level. Please note that I have additional private repositories and extensive work experience that is not publicly visible.
